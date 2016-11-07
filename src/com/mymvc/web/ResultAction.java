@@ -16,7 +16,7 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 @RequestMapping("/reAction")
 public class ResultAction {
-	
+		//无敌多少寂寞，多少寂寞！
 		//返回字符串1[跳转到页面或者Action中方法]
 		@RequestMapping("/testOne")
 		public String testOne(){
